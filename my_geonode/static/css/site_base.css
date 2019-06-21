@@ -1,0 +1,10 @@
+.navbar-brand {
+    width: 185px;
+    height: 68px;
+    background: transparent url("../img/logo-muni.svg") no-repeat scroll 0px 0px;
+}
+.navbar-header {
+    width: 185px;
+    height: 68px;
+}
+
